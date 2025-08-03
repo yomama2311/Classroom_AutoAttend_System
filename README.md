@@ -1,4 +1,4 @@
-# Classroom_AutoAttend_Systemt 
+# Classroom_AutoAttend_System
 I choose to do this type of project to be able to dive in Computer Vision world and also for my class project.
 In this project i used self collected data in the prefered environment and on the cam that used to detect and recognize too
 I used CVzone and Ultralytics to help collecting data 
